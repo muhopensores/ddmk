@@ -15,3 +15,5 @@ Scripts/*
 *.pdb
 CleanPDB.cpp
 main.cpp
+build64/
+build.bat
